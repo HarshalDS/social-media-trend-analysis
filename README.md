@@ -28,8 +28,14 @@ Twitter Sentiment Dataset
 
 ## Project Screenshots
 
-### Sentiment Polarity Distribution
-![Polarity Histogram](images/polarity_histogram.png)
+### Main Dashboard
+![Main Dashboard](images/dashboard-main.png)
 
-### Sentiment Distribution Pie Chart
-![Pie Chart](images/sentiment_pie_chart.png)
+### Positive Sentiment Analysis
+![Positive Sentiment](images/dashboard-positive.png)
+
+### Neutral Sentiment Analysis
+![Neutral Sentiment](images/dashboard-neutral.png)
+
+### Negative Sentiment Analysis
+![Negative Sentiment](images/dashboard-negative.png)
