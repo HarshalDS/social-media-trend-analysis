@@ -21,10 +21,11 @@ This project analyzes social media tweets and identifies sentiment trends using 
 Twitter Sentiment Dataset
 
 ## Output
+- Sentiment Distribution Visualization
+- Polarity Histogram Visualization
 - Positive Tweets
 - Negative Tweets
 - Neutral Tweets
-- Sentiment Distribution Visualization
 
 
 ## Dashboard Screenshots
@@ -47,3 +48,8 @@ Twitter Sentiment Dataset
 ### Positive Sentiment Analysis
 ![Positive Sentiment](images/dashboard-positive.png)
 
+## Future Improvements
+- Real-time Twitter API integration
+- Advanced NLP models
+- Interactive Dashboard using Power BI or Streamlit
+- Multi-language sentiment analysis
