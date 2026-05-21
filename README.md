@@ -44,9 +44,6 @@ Twitter Sentiment Dataset
 ### Neutral Sentiment Analysis
 ![Neutral Sentiment](images/dashboard-neutral.png)
 
-### Negative Sentiment Analysis
-![Negative Sentiment](images/dashboard-negative.png)
-
 ### Positive Sentiment Analysis
 ![Positive Sentiment](images/dashboard-positive.png)
 
