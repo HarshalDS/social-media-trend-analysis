@@ -39,14 +39,14 @@ Twitter Sentiment Dataset
 ### Main Dashboard
 ![Main Dashboard](images/dashboard-main.png)
 
+### Positive Sentiment Analysis
+![Positive Sentiment](images/dashboard-positive.png)
+
 ### Negative Sentiment Analysis
 ![Negative Sentiment](images/dashboard-negative.png)
 
 ### Neutral Sentiment Analysis
 ![Neutral Sentiment](images/dashboard-neutral.png)
-
-### Positive Sentiment Analysis
-![Positive Sentiment](images/dashboard-positive.png)
 
 ## Future Improvements
 - Real-time Twitter API integration
