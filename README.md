@@ -30,10 +30,10 @@ Twitter Sentiment Dataset
 ## Dashboard Screenshots
 
 ### Sentiment Pie Chart
-![Sentiment Pie Chart](images/sentiment_pie_chart.png)
+![Sentiment Pie Chart](images/sentiment_pie_chart-checkpoint.png)
 
 ### Polarity Histogram
-![Polarity Histogram](images/polarity_histogram.png)
+![Polarity Histogram](images/polarity_histogram-checkpoint.png)
 
 ### Main Dashboard
 ![Main Dashboard](images/dashboard-main.png)
