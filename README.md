@@ -48,6 +48,51 @@ Twitter Sentiment Dataset
 ### Neutral Sentiment Analysis
 ![Neutral Sentiment](images/dashboard-neutral.png)
 
+## Real-Time API Integrations
+
+This project now supports real-time data collection and sentiment analysis using external APIs.
+
+### APIs Used
+- News API
+- YouTube Data API v3
+
+### Real-Time Features
+- Live news headline fetching
+- YouTube comment extraction
+- Real-time sentiment analysis
+- Polarity score generation
+- Sentiment classification
+- Automated CSV dataset generation
+- Live visualization generation
+
+## Real-Time Data Pipeline
+
+API Data Fetching → NLP Processing → Sentiment Analysis → Visualization → CSV Export
+
+## New Generated Files
+
+### API Data
+- api_data/live_news.csv
+- api_data/youtube_comments.csv
+
+### Live Visualizations
+- api_data/live_sentiment_bar_chart.png
+- api_data/live_polarity_histogram.png
+
+## Project Roadmap
+
+### Completed Phases
+- ✅ Phase 1 — Foundation Layer
+- ✅ Phase 2 — Proper Project Structure
+- ✅ Phase 3 — Dashboard
+- ✅ Phase 4 — APIs / Real-Time Data
+
+### Upcoming Phases
+- ⏳ Phase 5 — PySpark
+- ⏳ Phase 6 — Databricks
+- ⏳ Phase 7 — Trend Prediction (ML)
+- ⏳ Phase 8 — Deployment
+
 ## Future Improvements
 - Real-time Twitter API integration
 - Advanced NLP models
