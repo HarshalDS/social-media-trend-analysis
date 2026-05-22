@@ -1,6 +1,6 @@
-# 📊 AI-Powered Social Media Intelligence Dashboard
+#  AI-Powered Social Media Intelligence Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is a real-time AI-powered analytics dashboard that performs sentiment analysis on social media and news data using NLP, Machine Learning, PySpark, and cloud-based analytics workflows.
 
@@ -8,15 +8,15 @@ The system collects real-time data from APIs, processes sentiment using NLP tech
 
 ---
 
-# 🌟 Key Features
+#  Key Features
 
-## 📰 News Sentiment Analysis
+##  News Sentiment Analysis
 - Real-time news headline fetching
 - Sentiment classification
 - Polarity score generation
 - Positive/Negative/Neutral analytics
 
-## 🎥 YouTube Comment Analysis
+##  YouTube Comment Analysis
 - Live YouTube comment extraction
 - Comment sentiment analysis
 - Sentiment visualization dashboard
@@ -28,7 +28,7 @@ The system collects real-time data from APIs, processes sentiment using NLP tech
 - Real-time custom sentiment prediction
 - Interactive prediction interface
 
-## ⚡ PySpark & Big Data Processing
+##  PySpark & Big Data Processing
 - Distributed sentiment analytics
 - Spark DataFrame transformations
 - Large-scale data processing
@@ -40,18 +40,18 @@ The system collects real-time data from APIs, processes sentiment using NLP tech
 - Cloud-based analytics workflows
 - Interactive dashboards
 
-## 🔄 ETL Pipeline Architecture
+## ETL Pipeline Architecture
 - Extract → Transform → Load workflow
 - Automated data processing
 - Modular pipeline design
 - Workflow scheduling simulation
 
-## 📡 Streaming Analytics Simulation
+##  Streaming Analytics Simulation
 - Real-time streaming simulation
 - Continuous sentiment processing
 - Automated workflow execution
 
-## 🌐 Interactive Streamlit Dashboard
+## Interactive Streamlit Dashboard
 - Modern dashboard UI
 - KPI metrics
 - Interactive charts
@@ -60,7 +60,7 @@ The system collects real-time data from APIs, processes sentiment using NLP tech
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 ## Programming & Analytics
 - Python
@@ -87,7 +87,7 @@ The system collects real-time data from APIs, processes sentiment using NLP tech
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 social-media-trend-analysis/
@@ -127,16 +127,16 @@ social-media-trend-analysis/
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
-## 📰 News Analysis Dashboard
+##  News Analysis Dashboard
 - Live dataset visualization
 - Sentiment distribution charts
 - Positive & negative trend analysis
 - KPI metrics
 - Interactive filtering system
 
-## 🎥 YouTube Analysis Dashboard
+##  YouTube Analysis Dashboard
 - Comment analytics
 - Sentiment charts
 - Positive/negative comment insights
@@ -173,7 +173,7 @@ social-media-trend-analysis/
 
 
 
-# ⚙️ Real-Time Data Pipeline
+#  Real-Time Data Pipeline
 
 ```text
 API Data Collection
@@ -193,7 +193,7 @@ Cloud Analytics
 
 ---
 
-# 🚀 Completed Project Phases
+#  Completed Project Phases
 
 - ✅ Phase 1 — Foundation Layer
 - ✅ Phase 2 — Project Structure
@@ -207,7 +207,7 @@ Cloud Analytics
 
 ---
 
-# 🌍 Deployment
+#  Deployment
 
 This project is deployed using Streamlit Cloud.
 
@@ -219,7 +219,7 @@ streamlit run app.py
 
 ---
 
-# 🔮 Future Improvements (V2 Roadmap)
+#  Future Improvements (V2 Roadmap)
 
 ## 🤖 Advanced AI & NLP
 - BERT-based sentiment analysis
@@ -227,19 +227,19 @@ streamlit run app.py
 - HuggingFace integration
 - Higher prediction accuracy
 
-## 🧠 Continuous Learning ML
+##  Continuous Learning ML
 - User feedback learning system
 - Dynamic dataset collection
 - Model retraining pipelines
 - Self-improving prediction system
 
-## 📡 Real-Time Streaming
+##  Real-Time Streaming
 - Kafka integration
 - Spark Streaming
 - Real-time dashboard refresh
 - Live event processing
 
-## 🌐 More Platform Integrations
+##  More Platform Integrations
 - Twitter/X API integration
 - Reddit sentiment analysis
 - Instagram analytics
@@ -251,7 +251,7 @@ streamlit run app.py
 - AWS/GCP deployment
 - Database integration
 
-## 🎨 UI/UX Enhancements
+## UI/UX Enhancements
 - Advanced dashboard themes
 - User authentication
 - Personalized analytics
@@ -259,7 +259,7 @@ streamlit run app.py
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Harshal Sonawane
 
