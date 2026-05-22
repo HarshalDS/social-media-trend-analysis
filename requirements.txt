@@ -4,3 +4,7 @@ matplotlib
 nltk
 textblob
 jupyterlab
+
+streamlit
+scikit-learn
+google-api-python-client
