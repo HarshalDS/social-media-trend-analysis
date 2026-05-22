@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 from textblob import TextBlob
 import pandas as pd
 
-API_KEY = "AIzaSyCJnZn8hHvUAWtHXtsDHJuSpfx-mrP5vu8"
+API_KEY = "YOUR_API_KEY"
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
